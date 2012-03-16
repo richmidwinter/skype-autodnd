@@ -13,6 +13,6 @@ This creates a single jar file including dependencies.
 
 ### Run the jar
 
-With Skype running, execute:
+Execute:
 
-    java -d32 -jar skype-autodnd-0.0.1-SNAPSHOT-jar-with-dependencies.jar
+    java -d32 -jar skype-autodnd-0.0.1-jar-with-dependencies.jar
